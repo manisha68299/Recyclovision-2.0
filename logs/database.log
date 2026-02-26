@@ -1,0 +1,1576 @@
+2026-02-27 00:26:00,380 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:00,388 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:00,528 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:00,538 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:00,669 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:00,678 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:00,781 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:00,789 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:00,905 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:00,912 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:01,037 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:01,044 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:01,171 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:01,182 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:01,288 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:01,296 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:01,397 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:01,404 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:01,519 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:01,529 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:01,635 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:01,641 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:01,753 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:01,764 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:01,865 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:01,872 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:01,970 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:01,979 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:02,090 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:02,101 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:02,236 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:02,245 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:02,371 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:02,379 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:02,481 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:02,488 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:02,610 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:02,618 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:02,720 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:02,727 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:02,841 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:02,848 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:02,959 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:02,967 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:03,064 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:03,071 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:03,176 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:03,185 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:03,292 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:03,301 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:03,397 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:03,406 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:03,519 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:03,527 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:03,631 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:03,641 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:03,750 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:03,758 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:03,877 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:03,884 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:03,992 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:03,999 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:26:04,112 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:04,123 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.82 | Purity: 100.0
+2026-02-27 00:26:04,246 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:04,255 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:04,362 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:04,369 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:04,487 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:04,496 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:04,616 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:04,625 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:04,772 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:04,785 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:04,907 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:04,915 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:05,013 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:05,018 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:05,137 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:05,146 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:05,255 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:05,262 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:05,380 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:05,386 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:05,489 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:05,497 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:05,592 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:05,601 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:05,714 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:05,722 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:05,843 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:05,850 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:05,961 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:05,967 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:06,080 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:06,086 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.81 | Purity: 100.0
+2026-02-27 00:26:06,196 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:06,202 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:06,299 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:06,307 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:06,417 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:06,418 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:06,531 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:06,538 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:06,636 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:06,642 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:06,744 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:06,753 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:06,854 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:06,861 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:06,964 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:06,972 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:07,083 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:07,092 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:07,188 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:07,194 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:07,288 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:07,295 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:07,414 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:07,420 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:07,533 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:07,541 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:07,655 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:07,664 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:07,767 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:07,776 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:07,874 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:07,880 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:07,992 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:07,998 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:08,101 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:08,109 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:08,225 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:08,232 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:08,342 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:08,348 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:08,470 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:08,478 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:08,573 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:08,580 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:08,684 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:08,692 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:08,808 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:08,816 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:08,983 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:08,993 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:09,112 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:09,120 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:09,299 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:09,309 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:09,417 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:09,426 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:09,592 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:09,602 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:09,718 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:09,728 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:09,856 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:09,863 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:10,025 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:10,034 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:10,186 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:10,193 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:10,317 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:10,326 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:10,502 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:10,508 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:10,661 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:10,668 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:10,836 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:10,844 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:10,958 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:10,972 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:11,151 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:11,158 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:11,297 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:11,307 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:11,409 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:11,419 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:11,598 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:11,610 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:11,724 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:11,732 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:11,859 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:11,859 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:12,016 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:12,028 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:12,159 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:12,169 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:12,274 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:12,280 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:12,401 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:12,409 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:12,523 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:12,531 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:12,670 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:12,686 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:12,808 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:12,819 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:12,953 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:12,964 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:13,086 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:13,094 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:13,197 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:13,203 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:13,344 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:13,355 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:13,468 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:13,479 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:26:13,594 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:13,604 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:13,765 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:13,774 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:13,890 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:13,899 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:14,023 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:14,028 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:14,154 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:14,163 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:14,254 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:14,264 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:14,366 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:14,374 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:14,458 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:14,471 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:14,594 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:14,601 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:14,705 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:14,709 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:14,821 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:14,828 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:14,931 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:14,941 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:15,040 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:15,048 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:15,134 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:15,142 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:15,242 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:15,249 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:15,354 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:15,361 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:15,462 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:15,473 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:15,569 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:15,576 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:15,674 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:15,681 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:15,784 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:15,788 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:15,881 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:15,888 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:16,007 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:16,013 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:16,117 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:16,125 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:16,223 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:16,229 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:16,337 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:16,344 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:16,454 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:16,460 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:16,539 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:16,555 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:16,668 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:16,669 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:16,784 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:16,789 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:16,898 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:16,905 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:16,999 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:17,007 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:17,111 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:17,118 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:17,211 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:17,219 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:17,342 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:17,351 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:17,452 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:17,458 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:17,546 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:17,553 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:17,661 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:17,669 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:17,803 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:17,808 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:17,916 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:17,923 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:18,045 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:18,051 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:18,172 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:18,178 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:18,274 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:18,281 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:18,386 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:18,394 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:18,529 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:18,538 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:18,664 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:18,673 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:18,794 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:18,803 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:18,939 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:18,952 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:19,081 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:19,089 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:19,207 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:19,215 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:19,305 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:19,313 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:19,422 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:19,429 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:19,533 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:19,542 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:19,630 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:19,637 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:19,729 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:19,737 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:19,847 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:19,854 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:19,944 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:19,953 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:20,065 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:20,071 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:20,179 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:20,186 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:20,294 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:20,300 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:20,406 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:20,414 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:20,510 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:20,517 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:20,613 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:20,619 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:20,768 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:20,779 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:20,868 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:20,876 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:20,972 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:20,979 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:21,086 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:21,094 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:21,197 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:21,207 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:21,311 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:21,320 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:21,447 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:21,457 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:21,557 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:21,563 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:21,662 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:21,670 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:21,759 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:21,767 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:21,865 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:21,874 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:21,973 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:21,980 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:22,079 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:22,087 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:22,175 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:22,184 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:22,287 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:22,296 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:22,393 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:22,402 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:22,503 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:22,514 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:22,612 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:22,620 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:22,735 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:22,742 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:22,839 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:22,846 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:22,957 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:22,964 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:23,068 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:23,076 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:23,178 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:23,185 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:23,284 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:23,292 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:23,396 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:23,400 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:23,504 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:23,511 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:23,614 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:23,622 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:23,729 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:23,734 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:23,850 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:23,851 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:23,969 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:23,978 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:24,100 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:24,108 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:24,215 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:24,221 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:24,340 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:24,346 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:24,445 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:24,451 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:24,570 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:24,580 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:24,726 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:24,737 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:24,847 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:24,854 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:24,959 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:24,966 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:25,064 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:25,073 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:26:25,172 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:25,181 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:25,273 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:25,280 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:25,387 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:25,396 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:25,503 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:25,510 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:25,606 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:25,613 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:25,721 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:25,729 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:25,841 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:25,850 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:25,961 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:25,970 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:26,087 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:26,096 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:26,204 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:26,208 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:26,302 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:26,309 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:26,411 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:26,420 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:26,530 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:26,539 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:26,641 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:26,650 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:26,765 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:26,776 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:26,880 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:26,889 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:26,981 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:26,990 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:27,085 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:27,096 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:27,181 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:27,191 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:26:27,283 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:27,292 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:27,389 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:27,395 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:27,483 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:27,494 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:26:27,600 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:27,602 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:27,716 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:27,723 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:27,828 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:27,836 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:27,937 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:27,945 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:28,053 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:28,061 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:28,163 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:28,170 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:28,265 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:28,273 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:28,370 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:28,379 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:28,494 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:28,502 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:28,615 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:28,623 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:28,749 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:28,759 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:28,860 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:28,868 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:28,976 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:28,983 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:29,108 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:29,116 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:29,234 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:29,242 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:26:29,350 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:29,374 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:26:29,519 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:29,528 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:29,638 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:29,646 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:29,750 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:29,758 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:29,870 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:29,877 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:29,987 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:29,995 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:30,103 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:30,111 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:30,210 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:30,219 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:30,325 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:30,333 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:30,438 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:30,445 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:30,535 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:30,542 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:30,638 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:30,645 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:26:30,740 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:30,747 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:30,834 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:30,841 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:30,954 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:30,962 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:31,063 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:31,072 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:31,175 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:31,183 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:26:31,278 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:31,287 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:31,374 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:31,382 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:31,474 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:31,481 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:31,593 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:31,600 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:31,716 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:31,723 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:31,833 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:31,841 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:31,947 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:31,957 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:32,065 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:32,077 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:32,208 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:32,219 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:32,333 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:32,338 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:32,445 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:32,454 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:32,566 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:32,575 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:32,683 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:32,691 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:32,814 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:32,823 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:32,929 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:32,933 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:33,029 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:33,038 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:33,146 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:33,153 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.75 | Purity: 100.0
+2026-02-27 00:26:33,514 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:33,518 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.77 | Purity: 100.0
+2026-02-27 00:26:33,613 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:33,620 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.81 | Purity: 100.0
+2026-02-27 00:26:33,748 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:33,759 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.81 | Purity: 100.0
+2026-02-27 00:26:33,865 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:33,871 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.81 | Purity: 100.0
+2026-02-27 00:26:33,987 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:33,994 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:34,093 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:34,100 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:34,226 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:34,235 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:34,357 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:34,362 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:34,482 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:34,488 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:34,594 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:34,600 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.80 | Purity: 100.0
+2026-02-27 00:26:34,704 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:34,711 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:34,812 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:34,820 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.82 | Purity: 100.0
+2026-02-27 00:26:34,938 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:34,943 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.82 | Purity: 100.0
+2026-02-27 00:26:35,046 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:35,055 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:35,158 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:35,165 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:35,269 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:35,279 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.78 | Purity: 100.0
+2026-02-27 00:26:35,376 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:35,384 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:35,518 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:35,524 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:35,631 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:35,639 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:35,866 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:35,873 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.80 | Purity: 100.0
+2026-02-27 00:26:36,004 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:36,015 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:36,121 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:36,128 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:26:36,228 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:36,236 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:36,373 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:36,383 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:36,507 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:36,517 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:36,672 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:36,684 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:36,837 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:36,845 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:36,980 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:36,984 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:37,135 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:37,143 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:37,288 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:37,300 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.77 | Purity: 100.0
+2026-02-27 00:26:37,412 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:37,420 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:37,551 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:37,557 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:37,673 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:37,678 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:37,800 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:37,808 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.79 | Purity: 100.0
+2026-02-27 00:26:37,943 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:37,950 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:38,070 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:38,077 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:38,190 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:38,196 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:38,299 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:38,299 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:38,403 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:38,409 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:38,515 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:38,519 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:38,638 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:38,644 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:38,771 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:38,778 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:38,906 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:38,912 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:39,037 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:39,043 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.79 | Purity: 100.0
+2026-02-27 00:26:39,146 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:39,155 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.82 | Purity: 100.0
+2026-02-27 00:26:39,268 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:39,275 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:26:39,394 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:39,402 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:26:39,509 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:39,515 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.82 | Purity: 100.0
+2026-02-27 00:26:39,634 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:39,640 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:39,745 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:39,753 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:39,857 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:39,863 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:39,968 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:39,975 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:26:40,087 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:40,093 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:40,195 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:40,203 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:26:40,327 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:40,335 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:26:40,438 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:40,445 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:40,551 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:40,558 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:40,699 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:40,705 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:40,795 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:40,805 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:40,921 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:40,928 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:41,060 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:41,068 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:41,170 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:41,179 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:41,275 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:41,284 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.82 | Purity: 100.0
+2026-02-27 00:26:41,391 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:41,397 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:41,514 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:41,522 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.75 | Purity: 100.0
+2026-02-27 00:26:41,635 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:41,644 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.72 | Purity: 100.0
+2026-02-27 00:26:41,733 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:41,741 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.81 | Purity: 100.0
+2026-02-27 00:26:41,835 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:41,844 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:41,958 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:41,966 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:42,056 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:42,064 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:42,159 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:42,166 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:42,270 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:42,278 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:42,379 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:42,388 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:42,488 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:42,494 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:42,590 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:42,597 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:42,701 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:42,707 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:42,789 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:42,803 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:42,935 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:42,941 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:43,054 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:43,062 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:43,171 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:43,177 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:43,280 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:43,288 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:43,402 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:43,407 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:43,516 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:43,523 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:43,617 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:43,624 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:43,732 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:43,738 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:43,840 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:43,867 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:43,984 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:43,992 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:26:44,087 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:44,096 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:44,213 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:44,223 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:44,430 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:44,439 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:44,563 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:44,568 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:26:44,661 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:44,669 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:44,779 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:44,788 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:44,893 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:44,901 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:45,000 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:45,009 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:45,096 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:45,104 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:45,201 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:45,208 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:45,314 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:45,324 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:45,435 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:45,443 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:45,550 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:45,557 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:45,654 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:45,663 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:45,760 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:45,767 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:45,881 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:45,888 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:46,005 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:46,013 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:46,128 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:46,135 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:46,235 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:46,244 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:46,346 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:46,354 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:46,453 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:46,462 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:46,563 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:46,571 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:46,664 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:46,669 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:46,779 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:46,784 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.78 | Purity: 100.0
+2026-02-27 00:26:46,897 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:46,906 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.81 | Purity: 100.0
+2026-02-27 00:26:47,019 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:47,019 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:47,123 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:47,132 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:47,236 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:47,244 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:26:47,350 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:47,351 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:47,449 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:47,455 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:47,561 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:47,565 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:47,661 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:47,669 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:47,782 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:47,790 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:47,888 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:47,894 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:48,004 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:48,013 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:48,114 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:48,118 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:48,234 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:48,242 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:48,343 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:48,351 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:48,457 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:48,466 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:48,575 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:48,582 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:48,680 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:48,688 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:48,793 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:48,799 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:48,901 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:48,909 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:49,011 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:49,018 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:49,118 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:49,125 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:49,214 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:49,218 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:49,336 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:49,346 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.82 | Purity: 100.0
+2026-02-27 00:26:49,488 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:49,500 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:49,615 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:49,621 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:49,710 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:49,718 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:49,812 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:49,818 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.82 | Purity: 100.0
+2026-02-27 00:26:49,910 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:49,920 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:26:50,038 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:50,045 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.81 | Purity: 100.0
+2026-02-27 00:26:50,159 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:50,165 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:26:50,262 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:50,269 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:50,365 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:50,371 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:50,462 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:50,469 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:50,577 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:50,584 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:50,686 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:50,694 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:50,804 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:50,813 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:50,915 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:50,923 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:51,008 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:51,021 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:51,116 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:51,122 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:51,213 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:51,220 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:51,323 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:51,332 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:51,458 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:51,469 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:51,575 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:51,582 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:51,682 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:51,688 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:51,784 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:51,792 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:51,891 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:51,898 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:52,018 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:52,026 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:52,137 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:52,144 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:52,237 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:52,244 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:52,342 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:52,352 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:52,449 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:52,457 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:52,538 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:52,546 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:52,646 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:52,655 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:52,738 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:52,752 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:52,854 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:52,859 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:52,955 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:52,962 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:53,083 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:53,090 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:53,199 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:53,205 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:53,309 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:53,315 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:53,415 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:53,418 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:53,524 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:53,533 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:53,641 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:53,648 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:53,740 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:53,747 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:53,855 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:53,863 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:54,028 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:54,038 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:54,168 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:54,178 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:54,277 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:54,282 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:54,387 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:54,395 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:54,509 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:54,515 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:54,612 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:54,621 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:54,728 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:54,736 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:54,883 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:54,892 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:55,007 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:55,015 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:55,111 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:55,118 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:55,231 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:55,239 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:55,345 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:55,348 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:55,447 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:55,449 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:55,566 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:55,574 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:55,669 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:55,676 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:55,780 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:55,781 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:55,916 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:55,924 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:26:56,035 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:56,042 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:56,143 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:56,151 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:56,283 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:56,288 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:56,392 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:56,401 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:56,497 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:56,500 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:56,611 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:56,618 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:56,727 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:56,735 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:56,829 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:56,834 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:26:56,955 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:56,962 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:57,061 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:57,068 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:57,176 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:57,183 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:26:57,301 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:57,309 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:57,411 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:57,417 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:57,524 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:57,531 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:26:57,638 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:57,645 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:26:57,740 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:57,748 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:57,861 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:57,868 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:57,973 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:57,981 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:58,082 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:58,088 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:58,194 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:58,198 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:58,319 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:58,329 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:58,429 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:58,437 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:58,540 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:58,549 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:58,653 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:58,662 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:58,756 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:58,763 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.78 | Purity: 100.0
+2026-02-27 00:26:58,862 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:58,871 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:26:59,078 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:59,086 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.80 | Purity: 100.0
+2026-02-27 00:26:59,276 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:59,284 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:26:59,388 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:59,395 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:26:59,490 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:59,497 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:59,615 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:59,622 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:59,710 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:59,716 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:26:59,817 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:59,818 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:26:59,926 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:26:59,934 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:00,049 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:00,058 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:00,150 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:00,157 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:00,282 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:00,290 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:00,395 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:00,401 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:00,506 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:00,512 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:00,614 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:00,622 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:00,724 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:00,731 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:00,835 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:00,842 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:00,938 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:00,947 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:01,067 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:01,073 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:01,166 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:01,175 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:01,279 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:01,286 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:01,394 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:01,400 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:27:01,511 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:01,519 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:01,624 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:01,633 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:01,744 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:01,753 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:01,863 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:01,870 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:01,958 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:01,967 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:02,078 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:02,084 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:02,193 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:02,198 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:02,290 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:02,297 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:02,398 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:02,408 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:02,511 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:02,519 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:02,631 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:02,639 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:02,738 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:02,746 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:02,862 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:02,869 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:02,974 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:02,983 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:03,078 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:03,089 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:03,188 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:03,196 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:03,295 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:03,300 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:03,399 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:03,408 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:03,511 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:03,520 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:03,598 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:03,616 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.77 | Purity: 100.0
+2026-02-27 00:27:03,727 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:03,735 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.82 | Purity: 100.0
+2026-02-27 00:27:03,837 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:03,845 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.82 | Purity: 100.0
+2026-02-27 00:27:03,936 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:03,945 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:04,043 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:04,049 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.82 | Purity: 100.0
+2026-02-27 00:27:04,160 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:04,167 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:04,266 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:04,269 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:04,377 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:04,381 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:04,519 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:04,528 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:04,636 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:04,644 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:04,751 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:04,757 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:04,860 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:04,867 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:04,961 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:04,969 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:27:05,084 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:05,092 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:05,193 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:05,198 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:05,308 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:05,314 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:05,411 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:05,420 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:05,531 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:05,540 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:05,650 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:05,658 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:05,743 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:05,749 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:05,870 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:05,877 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.82 | Purity: 100.0
+2026-02-27 00:27:05,977 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:05,982 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.82 | Purity: 100.0
+2026-02-27 00:27:06,095 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:06,102 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:06,193 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:06,202 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:06,294 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:06,299 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:06,409 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:06,416 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:06,521 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:06,530 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:06,628 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:06,635 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:06,732 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:06,738 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:06,852 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:06,859 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:06,960 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:06,969 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:07,060 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:07,067 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:07,177 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:07,187 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:07,291 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:07,300 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:07,396 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:07,403 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:07,540 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:07,550 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:07,657 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:07,664 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:07,748 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:07,764 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:07,884 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:07,890 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:07,994 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:08,002 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:08,113 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:08,118 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:08,229 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:08,236 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:08,340 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:08,348 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:08,455 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:08,461 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:27:08,559 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:08,568 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:08,661 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:08,668 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:08,817 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:08,819 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:27:08,915 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:08,919 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:09,025 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:09,034 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.80 | Purity: 100.0
+2026-02-27 00:27:09,137 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:09,146 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.82 | Purity: 100.0
+2026-02-27 00:27:09,256 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:09,263 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:09,376 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:09,384 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:09,483 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:09,489 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:09,587 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:09,595 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:09,688 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:09,694 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:09,783 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:09,789 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:09,880 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:09,888 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:09,990 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:09,997 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:10,093 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:10,101 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:10,209 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:10,217 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:10,317 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:10,325 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:10,432 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:10,440 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:10,547 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:10,555 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:10,675 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:10,683 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:10,815 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:10,825 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:10,952 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:10,960 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:27:11,072 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:11,079 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:27:11,214 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:11,218 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:11,341 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:11,349 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:27:11,473 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:11,484 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:27:11,608 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:11,616 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:27:11,759 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:11,765 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:11,870 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:11,876 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:11,988 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:11,998 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:27:12,116 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:12,118 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:12,212 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:12,218 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:12,327 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:12,334 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:12,418 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:12,434 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:12,534 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:12,539 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:12,628 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:12,634 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:12,749 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:12,757 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:12,864 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:12,872 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:12,999 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:13,007 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:13,100 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:13,107 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:13,234 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:13,242 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:13,342 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:13,352 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:13,470 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:13,477 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:27:13,570 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:13,577 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:13,673 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:13,680 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:13,770 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:13,777 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:13,911 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:13,921 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:14,031 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:14,038 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:14,162 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:14,170 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:14,281 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:14,288 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:14,391 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:14,397 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:14,486 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:14,493 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:14,582 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:14,590 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:14,668 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:14,675 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:14,759 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:14,766 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:14,859 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:14,868 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:14,957 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:14,966 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:15,060 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:15,067 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:15,149 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:15,157 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:15,238 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:15,246 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:15,334 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:15,340 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:15,418 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:15,426 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:27:15,506 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:15,515 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:15,610 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:15,618 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:15,694 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:15,702 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:15,783 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:15,790 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:15,871 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:15,878 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:15,954 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:15,962 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:16,058 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:16,067 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:16,153 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:16,163 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:16,254 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:16,262 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:16,351 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:16,358 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:16,454 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:16,462 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:16,559 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:16,568 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:16,660 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:16,668 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:16,751 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:16,758 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:16,832 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:16,839 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:16,911 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:16,918 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:17,001 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:17,007 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:17,108 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:17,117 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:27:17,194 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:17,202 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.82 | Purity: 100.0
+2026-02-27 00:27:17,299 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:17,306 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:17,398 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:17,407 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:17,483 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:17,489 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:17,580 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:17,587 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:17,670 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:17,679 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:17,762 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:17,771 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:17,857 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:17,867 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:17,966 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:17,977 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:18,083 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:18,094 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.81 | Purity: 100.0
+2026-02-27 00:27:18,187 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:18,196 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.78 | Purity: 100.0
+2026-02-27 00:27:18,278 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:18,288 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.82 | Purity: 100.0
+2026-02-27 00:27:18,406 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:18,416 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.78 | Purity: 100.0
+2026-02-27 00:27:18,528 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:18,536 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.76 | Purity: 100.0
+2026-02-27 00:27:18,645 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:18,652 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.73 | Purity: 100.0
+2026-02-27 00:27:18,743 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:18,753 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.76 | Purity: 100.0
+2026-02-27 00:27:18,837 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:18,844 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:27:18,924 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:18,934 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:19,024 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:19,034 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:19,133 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:19,141 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:19,220 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:19,227 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.90 | Purity: 100.0
+2026-02-27 00:27:19,313 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:19,322 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:27:19,406 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:19,413 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:19,501 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:19,509 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:19,598 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:19,606 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:19,688 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:19,696 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:19,788 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:19,796 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:19,874 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:19,884 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:19,968 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:19,975 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:20,076 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:20,087 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:20,177 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:20,185 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:20,269 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:20,277 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:27:20,366 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:20,373 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.73 | Purity: 100.0
+2026-02-27 00:27:20,522 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:20,532 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.73 | Purity: 100.0
+2026-02-27 00:27:20,622 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:20,631 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.71 | Purity: 100.0
+2026-02-27 00:27:20,874 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:20,882 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.75 | Purity: 100.0
+2026-02-27 00:27:20,967 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:20,972 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.75 | Purity: 100.0
+2026-02-27 00:27:21,052 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:21,060 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.76 | Purity: 100.0
+2026-02-27 00:27:21,174 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:21,183 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:27:21,263 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:21,271 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:21,351 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:21,357 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:21,445 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:21,454 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.90 | Purity: 100.0
+2026-02-27 00:27:21,527 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:21,535 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:27:21,615 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:21,622 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:27:21,704 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:21,711 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:27:21,844 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:21,854 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.90 | Purity: 100.0
+2026-02-27 00:27:21,977 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:21,987 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.90 | Purity: 100.0
+2026-02-27 00:27:22,081 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:22,089 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:22,193 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:22,204 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.90 | Purity: 100.0
+2026-02-27 00:27:22,328 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:22,338 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:27:22,443 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:22,452 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.90 | Purity: 100.0
+2026-02-27 00:27:22,546 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:22,553 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:22,645 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:22,653 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:22,736 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:22,744 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.82 | Purity: 100.0
+2026-02-27 00:27:22,893 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:22,905 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:27:23,011 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:23,021 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.79 | Purity: 100.0
+2026-02-27 00:27:23,160 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:23,170 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.79 | Purity: 100.0
+2026-02-27 00:27:23,310 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:23,320 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.74 | Purity: 100.0
+2026-02-27 00:27:23,437 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:23,446 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.76 | Purity: 100.0
+2026-02-27 00:27:23,563 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:23,573 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.80 | Purity: 100.0
+2026-02-27 00:27:23,667 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:23,674 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.79 | Purity: 100.0
+2026-02-27 00:27:25,257 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:25,266 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.70 | Purity: 100.0
+2026-02-27 00:27:27,933 - INFO - Carbon logged | SUITCASE | Value: 0 | Total: 0.0
+2026-02-27 00:27:27,941 - INFO - Detection logged | Item: SUITCASE | Correct: True | Conf: 0.71 | Purity: 100.0
+2026-02-27 00:27:29,632 - INFO - Carbon logged | SKATEBOARD | Value: 0 | Total: 0.0
+2026-02-27 00:27:29,641 - INFO - Detection logged | Item: SKATEBOARD | Correct: True | Conf: 0.80 | Purity: 100.0
+2026-02-27 00:27:30,585 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:30,592 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.74 | Purity: 100.0
+2026-02-27 00:27:30,675 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:30,686 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.81 | Purity: 100.0
+2026-02-27 00:27:31,706 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:31,716 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.70 | Purity: 100.0
+2026-02-27 00:27:31,966 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:31,976 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:27:32,065 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:32,073 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.82 | Purity: 100.0
+2026-02-27 00:27:32,153 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:32,161 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:27:32,262 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:32,270 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:27:32,351 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:32,360 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.80 | Purity: 100.0
+2026-02-27 00:27:32,447 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:32,456 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:32,539 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:32,546 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:32,631 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:32,642 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:32,743 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:32,754 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.81 | Purity: 100.0
+2026-02-27 00:27:32,841 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:32,850 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:27:32,937 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:32,946 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:33,031 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:33,039 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:33,119 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:33,126 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:33,222 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:33,231 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:33,313 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:33,321 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:33,409 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:33,420 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:33,495 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:33,505 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:33,598 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:33,609 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:33,695 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:33,708 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:33,816 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:33,824 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.83 | Purity: 100.0
+2026-02-27 00:27:33,930 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:33,937 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:34,030 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:34,038 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.78 | Purity: 100.0
+2026-02-27 00:27:34,126 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:34,137 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:27:34,262 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:34,273 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:34,380 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:34,392 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:34,489 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:34,497 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:34,591 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:34,601 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:34,681 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:34,689 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:27:34,782 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:34,792 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:34,875 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:34,884 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:35,188 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:35,198 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:35,319 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:35,327 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:35,407 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:35,416 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:35,509 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:35,518 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:35,616 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:35,626 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:35,716 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:35,725 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:35,806 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:35,816 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.89 | Purity: 100.0
+2026-02-27 00:27:35,900 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:35,910 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:36,008 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:36,019 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:36,119 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:36,129 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:36,230 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:36,237 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:36,330 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:36,337 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:36,419 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:36,427 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:36,520 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:36,528 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:36,613 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:36,623 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:36,705 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:36,712 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:36,804 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:36,814 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:36,895 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:36,902 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:36,986 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:36,994 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:37,072 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:37,080 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:37,170 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:37,178 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:37,271 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:37,277 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:37,363 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:37,371 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:37,463 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:37,472 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.84 | Purity: 100.0
+2026-02-27 00:27:37,658 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:37,668 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:37,836 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:37,844 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:38,008 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:38,018 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:38,208 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:38,218 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.85 | Purity: 100.0
+2026-02-27 00:27:38,388 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:38,398 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:38,560 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:38,568 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.87 | Purity: 100.0
+2026-02-27 00:27:38,738 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:38,747 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
+2026-02-27 00:27:38,921 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:38,932 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.88 | Purity: 100.0
+2026-02-27 00:27:39,068 - INFO - Carbon logged | PERSON | Value: 0 | Total: 0.0
+2026-02-27 00:27:39,088 - INFO - Detection logged | Item: PERSON | Correct: True | Conf: 0.86 | Purity: 100.0
