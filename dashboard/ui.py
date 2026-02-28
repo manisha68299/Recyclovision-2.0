@@ -23,8 +23,78 @@ st.title("♻️ RecycloVision - Sustainability Intelligence Dashboard")
 # ===============================
 # DATABASE CONNECTION
 # ===============================
+def get_db_path():
+    """
+    Returns correct database path for:
+    - Local development
+    - Streamlit Cloud deployment
+    """
+
+    # Local path
+    local_path = os.path.join("data", "waste_telemetry.db")
+
+    # Cloud path (root directory)
+    cloud_path = "waste_telemetry.db"
+
+    if os.path.exists(local_path):
+        return local_path
+    else:
+        return cloud_path
+
+
+def initialize_empty_db(db_path):
+    """
+    Creates empty database tables if DB does not exist.
+    Safe for cloud deployment.
+    """
+    conn = sqlite3.connect(db_path)
+    cursor = conn.cursor()
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS detection_results (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            timestamp TEXT,
+            item_label TEXT,
+            is_correct BOOLEAN,
+            confidence REAL,
+            purity_score REAL
+        )
+    """)
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS carbon_savings_log (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            item_label TEXT,
+            carbon_value REAL,
+            cumulative_total REAL,
+            timestamp TEXT
+        )
+    """)
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS low_confidence_detections (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            frame_id INTEGER,
+            label TEXT,
+            confidence REAL,
+            lighting_metric REAL,
+            dynamic_threshold REAL,
+            timestamp TEXT
+        )
+    """)
+
+    conn.commit()
+    conn.close()
+
+
 def load_data():
-    conn = sqlite3.connect("data/waste_telemetry.db")
+    db_path = get_db_path()
+
+    # If DB doesn't exist (cloud case), create empty one
+    if not os.path.exists(db_path):
+        initialize_empty_db(db_path)
+
+    conn = sqlite3.connect(db_path)
 
     detections = pd.read_sql_query(
         "SELECT * FROM detection_results",
@@ -44,10 +114,6 @@ def load_data():
     conn.close()
 
     return detections, carbon, low_conf
-
-
-detections_df, carbon_df, low_conf_df = load_data()
-
 
 # ===============================
 # SUMMARY METRICS
