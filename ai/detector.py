@@ -19,14 +19,15 @@ class WasteDetector:
         gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
         return cv2.Laplacian(gray, cv2.CV_64F).var()
 
-    def get_dynamic_confidence(self, lighting):
-        if lighting < 0.4:
-            return 0.80
-        elif lighting < 0.7:
-            return 0.70
-        else:
-            return 0.60
-
+def get_dynamic_confidence(self, lighting):
+    # Lowered for better real-world detection
+    if lighting < 0.4:
+        return 0.55
+    elif lighting < 0.7:
+        return 0.50
+    else:
+        return 0.45
+    
     def detect_objects(self, frame):
 
         self.frame_count += 1
@@ -36,15 +37,15 @@ class WasteDetector:
 
         dynamic_conf = self.get_dynamic_confidence(lighting)
 
+         # stricter if blurry
         if blur < 100:
-            dynamic_conf += 0.05  # stricter if blurry
-
+          dynamic_conf += 0.02
+    
         results = self.model(
-            frame,
-            conf=dynamic_conf,
-            iou=0.5,
-            classes=self.allowed_classes
-        )
+    frame,
+    conf=max(dynamic_conf, 0.40),  # never go below 0.40
+    iou=0.5
+)
 
         detections = []
 
