@@ -6,8 +6,9 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 import streamlit as st
 import sqlite3
 import pandas as pd
-from database.db_manager import waste_db
 
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+DB_PATH = os.path.join(BASE_DIR, "data", "waste_telemetry.db")
 
 # ===============================
 # PAGE CONFIG
