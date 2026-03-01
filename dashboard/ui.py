@@ -115,6 +115,17 @@ def load_data():
 
     return detections, carbon, low_conf
 
+detections_df, carbon_df, low_conf_df = load_data()
+
+# Safety fallback
+if detections_df is None:
+    detections_df = pd.DataFrame()
+
+if carbon_df is None:
+    carbon_df = pd.DataFrame()
+
+if low_conf_df is None:
+    low_conf_df = pd.DataFrame()
 # ===============================
 # SUMMARY METRICS
 # ===============================

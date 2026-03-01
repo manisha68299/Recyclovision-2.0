@@ -24,7 +24,7 @@ def main():
         # =============================
         # 1️⃣ Load YOLO Model
         # =============================
-        model = YOLO("yolov8n.pt")
+        model = YOLO("runs/detect/train/weights/best.pt")
         allowed_classes = None
 
         # =============================
