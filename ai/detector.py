@@ -11,43 +11,23 @@ class WasteDetector:
         self.frame_count = 0
         self.low_confidence_buffer = []
 
-    def get_lighting_metric(self, frame):
-        gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-        return np.mean(gray) / 255.0
-
-    def get_blur_metric(self, frame):
-        gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-        return cv2.Laplacian(gray, cv2.CV_64F).var()
-
-def get_dynamic_confidence(self, lighting):
-    # Lowered for better real-world detection
-    if lighting < 0.4:
-        return 0.55
-    elif lighting < 0.7:
-        return 0.50
-    else:
-        return 0.45
-    
+    # --------------------------------------------------
+    # Main Detection Function (Stable Version)
+    # --------------------------------------------------
     def detect_objects(self, frame):
 
         self.frame_count += 1
 
-        lighting = self.get_lighting_metric(frame)
-        blur = self.get_blur_metric(frame)
-
-        dynamic_conf = self.get_dynamic_confidence(lighting)
-
-         # stricter if blurry
-        if blur < 100:
-          dynamic_conf += 0.02
-    
+        # Fixed confidence threshold (stable & reliable)
         results = self.model(
-    frame,
-    conf=max(dynamic_conf, 0.40),  # never go below 0.40
-    iou=0.5
-)
+            frame,
+            conf=0.25,   # Safe baseline threshold
+            iou=0.5,
+            classes=self.allowed_classes
+        )
 
         detections = []
+        self.low_confidence_buffer = []  # reset every frame
 
         for result in results:
             for box in result.boxes:
@@ -63,12 +43,13 @@ def get_dynamic_confidence(self, lighting):
                     "confidence": round(confidence, 2),
                     "coords": coords,
                     "timestamp": datetime.now(),
-                    "lighting": lighting,
-                    "blur": blur
+                    "lighting": 0,   # kept for compatibility
+                    "blur": 0        # kept for compatibility
                 }
 
                 detections.append(detection_data)
 
+                # Log low confidence separately
                 if confidence < 0.75:
                     self.low_confidence_buffer.append(detection_data)
 
