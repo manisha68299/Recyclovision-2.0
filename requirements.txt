@@ -1,3 +1,12 @@
-streamlit
-pandas
-numpy
+streamlit==1.32.0
+pandas==2.2.2
+numpy==1.26.4
+
+streamlit-webrtc==0.47.7
+av==10.0.0
+
+opencv-python-headless==4.9.0.80
+
+ultralytics==8.2.0
+torch==2.2.2
+torchvision==0.17.2
